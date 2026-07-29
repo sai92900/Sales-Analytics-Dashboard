@@ -48,9 +48,6 @@ This Power BI dashboard analyzes bicycle, accessories, and clothing sales data. 
 - `Sales Analytics Dashboard.pbix`
 - `Sales Analytics Dashboard.pdf`
 
-## Live Report
-
-Live Power BI report link will be added here.
 
 ## Author
 
